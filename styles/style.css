@@ -57,7 +57,7 @@ body {
     padding: 16px;
     color: var(--cor-primaria);
     text-decoration: none;
-    margin: 1em 5em 1em;
+    margin: 1em 0 1em;
 }
 
 .container-botao:hover {
