@@ -19,7 +19,7 @@ Este projeto é uma **landing page** fictícia inspirada no serviço Alura+, des
 - HTML
 - CSS
 
-## 🌐 Portfolio online
+## 🌐 Projeto Online
 
 Veja o portfolio ao vivo clicando no link abaixo:
 
